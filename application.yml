@@ -2,4 +2,4 @@ server:
   port: 9001
 
 host:
-  nickName: Uaty1
+  name: uat
